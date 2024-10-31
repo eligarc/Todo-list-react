@@ -10,3 +10,5 @@ Para correr el proyecto en local usar:
 
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
+Screen
+![alt text](image.png)
